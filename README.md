@@ -1,2 +1,0 @@
-# testqabot
-qabot
